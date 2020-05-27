@@ -40,7 +40,7 @@ public class VentanaAñadirTelefono extends Frame {
         this.setVisible(true);
         
         Ventana = new Panel(new BorderLayout());
-        AgregarTelefono = new Panel(new GridLayout(5, 2, 5, 20));
+        AgregarTelefono = new Panel(new GridLayout(8, 2, 5, 20));
         Boton = new Panel();
 
         GuardarDatos = new Button("Guardar Datos");

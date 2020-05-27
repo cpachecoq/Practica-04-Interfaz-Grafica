@@ -51,7 +51,7 @@ public class VentanaOpcciones extends Frame {
         ListarTelefonos = new Button("Listar Telefonos");
         MostrarTelefonos = new Button("Mostrar Telefonos");
         ModificarTelefono = new Button("Modificar Telefono");
-        EliminarTelefono = new Button("Eliminar Telefonos");
+        EliminarTelefono = new Button("Eliminar Telefono");
         CerrarSesion = new Button("Cerrar Sesion");
         
 
